@@ -1,0 +1,53 @@
+body{
+background-color: 
+	#0D0D0D
+;
+}
+
+h1{
+color: salmon;
+text-shadow: -1px 1px black;
+text-align: center;
+font-size: 34px; 
+}
+
+li{
+color: lightseagreen;
+font-size: 19;
+}
+
+
+p{
+color: gold;
+font-size: 19; 
+
+}
+
+h2{
+text-align: center;
+color: mediumseagreen;
+font-size: 34px;
+
+}
+
+
+ a {
+    display: block;
+    width: max-content; 
+    margin: 0 auto;    
+}
+
+
+h3{
+text-align: center;
+color: royalblue;
+font-size: 34px;
+}
+
+img{
+width: 200px;
+border-color: darkgrey;
+border-width: 2px;
+border-style:dashed;
+margin: 50px
+}
